@@ -1,0 +1,3 @@
+<div>
+    <strong>Hello {this.getWorld()} :)</strong>
+</div>
